@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "connector")(type "KiCad")(uri "${KIPRJMOD}/components/extern/symbols/connector.kicad_sym")(options "")(descr ""))
+  (lib (name "button")(type "KiCad")(uri "${KIPRJMOD}/components/extern/symbols/button.kicad_sym")(options "")(descr ""))
+)
